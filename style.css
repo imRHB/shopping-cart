@@ -1,6 +1,9 @@
 body{
 	background: #fff;
 }
+h2 {
+	text-align: center;
+}
 .cart{
 	margin: 100px 0;
 	background-color: #F6F5FA;;
